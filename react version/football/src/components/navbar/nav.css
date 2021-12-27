@@ -36,3 +36,9 @@ li a {
     font-weight: 900;
     font-size: 1.3rem;
 }
+
+@media screen and (max-width: 880px) {
+    nav {
+        display: none;
+    }
+}
