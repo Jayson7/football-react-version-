@@ -29,6 +29,38 @@
 
 .box1 p {
     font-size: 1rem;
-    font-weight: 700;
+    font-weight: 600;
     font-family: "Poppins";
+}
+
+.btn {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: aqua; */
+}
+
+.box1 .a {
+    padding: 10px 10px;
+    font-family: "Quantico";
+    font-weight: 900;
+    font-size: 1.3rem;
+    background: #ffb43a;
+    border: 0.5px solid;
+    color: #000;
+    border-radius: 5px;
+    /* margin-right: 20px; */
+}
+
+.box1 .b {
+    padding: 10px 10px;
+    font-family: "Quantico";
+    font-weight: 900;
+    font-size: 1.3rem;
+    border-radius: 5px;
+    border: 0.5px solid;
+    color: #f8f8f8;
+    background-color: #053b19;
+    /* margin-left: 20px; */
 }

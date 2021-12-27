@@ -15,7 +15,7 @@ export class Setion1 extends Component {
             </p>
             <div className="btn">
               <button className="a"> Rankings </button>
-              <button className="a"> Charts </button>
+              <button className="b"> Charts </button>
             </div>
           </div>
           <div className="box2"></div>
