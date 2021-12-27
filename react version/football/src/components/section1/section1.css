@@ -71,3 +71,15 @@
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+
+/* media queries */
+
+@media screen and (max-width: 880px) {
+    .wrapper {
+        height: 100%;
+    }
+    .box1 {
+        margin-top: 10vh;
+    }
+}
