@@ -8,22 +8,22 @@ export class Nav extends Component {
           <nav>
             <ul>
               <li>
-                <a href="#"> HOME </a>
+                <a href="/"> HOME </a>
               </li>
               <li>
-                <a href="#"> LIVE </a>
+                <a href="/"> LIVE </a>
               </li>
               <li>
-                <a href="#"> RESULTS </a>
+                <a href="/"> RESULTS </a>
               </li>
               <li>
-                <a href="#"> STREAM </a>
+                <a href="/"> STREAM </a>
               </li>
               <li>
-                <a href="#"> LOGIN </a>
+                <a href="/"> LOGIN </a>
               </li>
               <li>
-                <a href="#"> SIGN UP </a>
+                <a href="/"> SIGN UP </a>
               </li>
             </ul>
           </nav>

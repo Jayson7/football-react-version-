@@ -14,6 +14,7 @@ nav {
 
 nav ul {
     width: 100%;
+    margin-left: 40px;
     display: flex;
     align-items: center;
     justify-content: flex-start;
