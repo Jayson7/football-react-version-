@@ -1,15 +1,15 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-
-body {
-    overflow-x: hidden;
-}
-
 header {
     width: 100vw;
-    background-color: aqua;
+    /* background-color: aqua; */
+    height: 70px;
+}
+
+nav {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 nav ul {
@@ -18,15 +18,20 @@ nav ul {
     align-items: center;
     justify-content: flex-start;
     flex-direction: row;
-    background-color: #000;
+    /* background-color: #000; */
 }
 
 ul li {
     margin-right: 40px;
     margin-left: 10px;
+    list-style-type: none;
     /* background-color: aqua; */
 }
 
 li a {
-    color: #fff;
+    color: #000;
+    text-decoration: none;
+    font-family: "Poppins";
+    font-weight: 900;
+    font-size: 1.3rem;
 }
