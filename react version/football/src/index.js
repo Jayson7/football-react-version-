@@ -2,8 +2,10 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import Section1 from "./components/section1/setion1";
+import Nav from "./components/navbar/nav";
 ReactDOM.render(
   <React.StrictMode>
+    <Nav />
     <Section1 />
   </React.StrictMode>,
   document.getElementById("root")
