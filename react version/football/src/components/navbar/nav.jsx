@@ -11,19 +11,19 @@ export class Nav extends Component {
                 <a href="#"> HOME </a>
               </li>
               <li>
-                <a href="#"> HOME </a>
+                <a href="#"> LIVE </a>
               </li>
               <li>
-                <a href="#"> HOME </a>
+                <a href="#"> RESULTS </a>
               </li>
               <li>
-                <a href="#"> HOME </a>
+                <a href="#"> STREAM </a>
               </li>
               <li>
-                <a href="#"> HOME </a>
+                <a href="#"> LOGIN </a>
               </li>
               <li>
-                <a href="#"> HOME </a>
+                <a href="#"> SIGN UP </a>
               </li>
             </ul>
           </nav>
